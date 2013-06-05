@@ -10,7 +10,7 @@ gem 'paperclip'
 
 gem 'devise'
 gem 'stripe'
-
+gem "engineyard-serverside", "~> 2.1.2"
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
